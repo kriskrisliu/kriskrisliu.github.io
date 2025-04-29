@@ -19,7 +19,7 @@ redirect_from:
 
 LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science and Engineering, Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
 
-🔥 We are recruiting Master and Ph.D students! Please visit our Lab page for more details! [南京大学智能感知与通信实验室](https://iscl.nju.edu.cn/d9/65/c58186a645477/page.htm)
+🔥🔥🔥 We are recruiting Master and Ph.D students! Please visit our Lab page for more details! [南京大学智能感知与通信实验室](https://iscl.nju.edu.cn/d9/65/c58186a645477/page.htm)
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 **IJCAI 2025:** FBQuant, a novel quantization method for LLMs. 
@@ -71,7 +71,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 - Enhance prompt quality by LLMs.
 - Enhance T2I generation quality by better prompts.
 
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -87,7 +87,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 - Improves compressed MLLMs on devices using cloud-based models.
 - Efficient data transmission, knowledge distillation, and adaptive weight compression.
 
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -103,7 +103,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 - PTQ method for diffusion models.
 - Timestep-aware calibration and shortcut split methods.
 
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -114,12 +114,12 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 
 **CVPR 2023** [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](https://arxiv.org/pdf/)
 
-**Yijiang Liu**, 
+**Yijiang Liu**, Huanrui Yang, Zhen Dong, Kurt Keutzer, Li Du, Shanghang Zhang
 
 - Using additive uniform noisy bias to actively reduce quantization error.
 - Improving 6-bit quantization performance with minimal overhead.
 
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -130,12 +130,12 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 
 **TIP 2022** [Limb Pose Aware Networks for Monocular 3D Pose Estimation](https://arxiv.org/pdf/)
 
-**Yijiang Liu**, 
+Lele Wu, Zhenbo Yu, **Yijiang Liu**, Qingshan Liu
 
 - Monocular 3D pose estimation.
 - Kinematic constraints and a trajectory-aware approach to reduce estimation errors.
 
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
