@@ -66,10 +66,10 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 **CVPR 2024** [PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought](https://arxiv.org/)
 
-**Yijiang Liu**, 
+**Yijiang Liu\***, Junyi Yao\*, Zhen Dong, Mingfei Guo, Helan Hu, Kurt Keutzer, Li Du, Daquan Zhou, Shanghang Zhang 
 
-- some strength
-- some value
+- Enhance prompt quality by LLMs.
+- Enhance T2I generation quality by better prompts.
 
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -82,10 +82,10 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 **CVPR 2024** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://arxiv.org/pdf/)
 
-**Yijiang Liu**, 
+Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, **Yijiang Liu**, Shanghang Zhang 
 
-- some strength
-- some value
+- Improves compressed MLLMs on devices using cloud-based models.
+- Efficient data transmission, knowledge distillation, and adaptive weight compression.
 
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -100,8 +100,8 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 **Yijiang Liu**, 
 
-- some strength
-- some value
+- PTQ method for diffusion models.
+- Timestep-aware calibration and shortcut split methods.
 
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -116,8 +116,8 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 **Yijiang Liu**, 
 
-- some strength
-- some value
+- Using additive uniform noisy bias to actively reduce quantization error.
+- Improving 6-bit quantization performance with minimal overhead.
 
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -132,8 +132,8 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 **Yijiang Liu**, 
 
-- some strength
-- some value
+- Monocular 3D pose estimation.
+- Kinematic constraints and a trajectory-aware approach to reduce estimation errors.
 
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
