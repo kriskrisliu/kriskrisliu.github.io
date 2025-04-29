@@ -35,7 +35,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
+**IJCAI 2025** [FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
 
 **Yijiang Liu**, Hengyu Fang, Liulu He, Rongyu Zhang, Yichuan Bai, Yuan Du, Li Du
 
@@ -49,7 +49,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/pdf/2408.14721)
+**AAAI 2025** [PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/pdf/2408.14721)
 
 **Yijiang Liu**, Huanrui Yang, Youxin Chen, Rongyu Zhang, Miao Wang, Yuan Du, Li Du
 
@@ -64,7 +64,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[some paper](https://arxiv.org/pdf/)
+**CVPR 2024** [PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought](https://arxiv.org/)
 
 **Yijiang Liu**, 
 
@@ -80,7 +80,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[some paper](https://arxiv.org/pdf/)
+**CVPR 2024** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://arxiv.org/pdf/)
 
 **Yijiang Liu**, 
 
@@ -96,7 +96,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[some paper](https://arxiv.org/pdf/)
+**ICCV 2023** [Q-diffusion: Quantizing diffusion models](https://arxiv.org/pdf/)
 
 **Yijiang Liu**, 
 
@@ -112,7 +112,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[some paper](https://arxiv.org/pdf/)
+**CVPR 2023** [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](https://arxiv.org/pdf/)
 
 **Yijiang Liu**, 
 
@@ -128,7 +128,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[some paper](https://arxiv.org/pdf/)
+**TIP 2022** [Limb Pose Aware Networks for Monocular 3D Pose Estimation](https://arxiv.org/pdf/)
 
 **Yijiang Liu**, 
 
