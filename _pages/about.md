@@ -39,6 +39,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 
 - LLM quantization. 
 - Sub-branch approach.
+
 [**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -52,7 +53,8 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 
 - LLM structural pruning.
 - Adaptation to downstream tasks.
-[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -63,8 +65,10 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 
 **Yijiang Liu**, 
 
-[**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- some strength
+- some value
+
+[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
