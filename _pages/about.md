@@ -25,6 +25,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 - *2024.12*: &nbsp;🎉🎉 PAT, an efficient pruning technology for LLMs, is accepted by AAAI 2025.
 - *2024.02*: &nbsp;🎉🎉 Cloud-Device Collaborative is accepted by CVPR 2024.
 - *2024.02*: &nbsp;🎉🎉 PromptCoT, a novel technology for enhancing T2I quality, is accepted by CVPR 2024.
+- *2024.04*: &nbsp;🎉🎉 Q-Diffusion is featured in the newest [TensorRT post](https://developer.nvidia.com/blog/tensorrt-accelerates-stable-diffusion-nearly-2x-faster-with-8-bit-post-training-quantization).
 - *2023.08*: &nbsp;🎉🎉 Q-Diffusion, a low-bit quantization technology for diffusion models, is accepted by ICCV 2023.
 - *2023.03*: &nbsp;🎉🎉 NoisyQuant, a novel quantization mothod for Vision Transformers, is accepted by CVPR 2023.
 
@@ -40,7 +41,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 - LLM quantization. 
 - Sub-branch approach.
 
-[**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -58,6 +59,7 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 </div>
 </div>
 
+<!-- begin -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,20 +73,83 @@ IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://ar
 [**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+<!-- end -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<!-- begin -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[some paper](https://arxiv.org/pdf/)
+
+**Yijiang Liu**, 
+
+- some strength
+- some value
+
+[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+<!-- end -->
+
+<!-- begin -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[some paper](https://arxiv.org/pdf/)
+
+**Yijiang Liu**, 
+
+- some strength
+- some value
+
+[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+<!-- end -->
+
+<!-- begin -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[some paper](https://arxiv.org/pdf/)
+
+**Yijiang Liu**, 
+
+- some strength
+- some value
+
+[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+<!-- end -->
+
+<!-- begin -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[some paper](https://arxiv.org/pdf/)
+
+**Yijiang Liu**, 
+
+- some strength
+- some value
+
+[**GitHuB**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+<!-- end -->
+
+# 🎖 Services
+- Reviewer for CVPR, AAAI, ICML, ACMMM, ICCV, NeurIPS, IJCAI, ICLR.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Nanjing University, Ph.D
+- *2008.09 - 2012.06*, University of Edinburgh, MsC
+- *2008.09 - 2012.06*, Xidian University, B.E 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.04*, Momenta. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Visitings
+- *2022.09 - 2024.12*, Peking University.
