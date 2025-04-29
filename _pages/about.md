@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-LIU Yijiang (刘一茳).
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science and Engineering, Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
 
 
 # 🔥 News
@@ -35,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FBQuant](https://arxiv.org/abs/2501.16385)
+[FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
 
 **Yijiang Liu**, Hengyu Fang, Liulu He, Rongyu Zhang, Yichuan Bai, Yuan Du, Li Du
 
@@ -44,7 +42,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/pdf/2408.14721)
+
+**Yijiang Liu**, Huanrui Yang, Youxin Chen, Rongyu Zhang, Miao Wang, Yuan Du, Li Du
+
+[**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
