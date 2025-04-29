@@ -21,13 +21,13 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 FBQuant, a novel quantization method for LLMs, is accepted by IJCAI 2025. 
-- *2024.12*: &nbsp;🎉🎉 PAT, an efficient pruning technology for LLMs, is accepted by AAAI 2025.
-- *2024.02*: &nbsp;🎉🎉 Cloud-Device Collaborative is accepted by CVPR 2024.
-- *2024.02*: &nbsp;🎉🎉 PromptCoT, a novel technology for enhancing T2I quality, is accepted by CVPR 2024.
-- *2024.04*: &nbsp;🎉🎉 Q-Diffusion is featured in the newest [TensorRT post](https://developer.nvidia.com/blog/tensorrt-accelerates-stable-diffusion-nearly-2x-faster-with-8-bit-post-training-quantization).
-- *2023.08*: &nbsp;🎉🎉 Q-Diffusion, a low-bit quantization technology for diffusion models, is accepted by ICCV 2023.
-- *2023.03*: &nbsp;🎉🎉 NoisyQuant, a novel quantization mothod for Vision Transformers, is accepted by CVPR 2023.
+- *2025.04*: &nbsp;🎉🎉 *IJCAI 2025:* FBQuant, a novel quantization method for LLMs. 
+- *2024.12*: &nbsp;🎉🎉 *AAAI 2025:* PAT, an efficient pruning technology for LLMs.
+- *2024.02*: &nbsp;🎉🎉 *CVPR 2024:* Cloud-Device Collaborative.
+- *2024.02*: &nbsp;🎉🎉 *CVPR 2024:* PromptCoT, a novel technology for enhancing T2I quality.
+- *2024.04*: &nbsp;🎉🎉 Q-Diffusion is featured in the newest [TensorRT post](https://developer.nvidia.com/blog/tensorrt-accelerates-stable-diffusion-nearly-2x-faster-with-8-bit-post-training-quantization) and [MIT opencourses](https://www.youtube.com/watch?v=nFE1euQ_Wtw).
+- *2023.08*: &nbsp;🎉🎉 *ICCV 2023:* Q-Diffusion, a low-bit quantization technology for diffusion models.
+- *2023.03*: &nbsp;🎉🎉 *CVPR 2023:* NoisyQuant, a novel quantization mothod for Vision Transformers.
 
 # 📝 Publications 
 
