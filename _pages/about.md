@@ -33,12 +33,13 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
+IJCAI 2025 [FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
 
 **Yijiang Liu**, Hengyu Fang, Liulu He, Rongyu Zhang, Yichuan Bai, Yuan Du, Li Du
 
+- LLM quantization. 
+- Sub-branch approach.
 [**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -48,6 +49,18 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 [PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/pdf/2408.14721)
 
 **Yijiang Liu**, Huanrui Yang, Youxin Chen, Rongyu Zhang, Miao Wang, Yuan Du, Li Du
+
+[**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[some paper](https://arxiv.org/pdf/)
+
+**Yijiang Liu**, 
 
 [**GitHuB**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
