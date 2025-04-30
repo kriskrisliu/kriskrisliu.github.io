@@ -56,7 +56,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 - LLM structural pruning.
 - Adaptation to downstream tasks.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/PAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -64,14 +64,14 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CVPR 2024** [PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought](https://arxiv.org/)
+**CVPR 2024** [PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought](https://openaccess.thecvf.com/content/CVPR2024/html/Yao_PromptCoT_Align_Prompt_Distribution_via_Adapted_Chain-of-Thought_CVPR_2024_paper.html)
 
 **Yijiang Liu\***, Junyi Yao\*, Zhen Dong, Mingfei Guo, Helan Hu, Kurt Keutzer, Li Du, Daquan Zhou, Shanghang Zhang 
 
 - Enhance prompt quality by LLMs.
 - Enhance T2I generation quality by better prompts.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/SanGibb/PromptCoT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -80,7 +80,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CVPR 2024** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://arxiv.org/pdf/)
+**CVPR 2024** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Cloud-Device_Collaborative_Learning_for_Multimodal_Large_Language_Models_CVPR_2024_paper.html)
 
 Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, **Yijiang Liu**, Shanghang Zhang 
 
@@ -96,14 +96,15 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ICCV 2023** [Q-diffusion: Quantizing diffusion models](https://arxiv.org/pdf/)
+**ICCV 2023** [Q-diffusion: Quantizing diffusion models](http://openaccess.thecvf.com/content/ICCV2023/html/Li_Q-Diffusion_Quantizing_Diffusion_Models_ICCV_2023_paper.html)
 
 **Yijiang Liu**, 
 
 - PTQ method for diffusion models.
 - Timestep-aware calibration and shortcut split methods.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/Xiuyu-Li/q-diffusion) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Website**](https://xiuyuli.com/qdiffusion/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -112,14 +113,14 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CVPR 2023** [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](https://arxiv.org/pdf/)
+**CVPR 2023** [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](http://openaccess.thecvf.com/content/CVPR2023/html/Liu_NoisyQuant_Noisy_Bias-Enhanced_Post-Training_Activation_Quantization_for_Vision_Transformers_CVPR_2023_paper.html)
 
 **Yijiang Liu**, Huanrui Yang, Zhen Dong, Kurt Keutzer, Li Du, Shanghang Zhang
 
 - Using additive uniform noisy bias to actively reduce quantization error.
 - Improving 6-bit quantization performance with minimal overhead.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/kriskrisliu/NoisyQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
@@ -128,14 +129,14 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TIP 2022** [Limb Pose Aware Networks for Monocular 3D Pose Estimation](https://arxiv.org/pdf/)
+**TIP 2022** [Limb Pose Aware Networks for Monocular 3D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9663053/)
 
 Lele Wu, Zhenbo Yu, **Yijiang Liu**, Qingshan Liu
 
 - Monocular 3D pose estimation.
 - Kinematic constraints and a trajectory-aware approach to reduce estimation errors.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
 </div>
 <!-- end -->
