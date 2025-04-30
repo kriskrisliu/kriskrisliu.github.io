@@ -147,8 +147,8 @@ Lele Wu, Zhenbo Yu, **Yijiang Liu**, Qingshan Liu
 
 # 📖 Educations
 - *2022.09 - now*, Nanjing University, Ph.D
-- *2008.09 - 2012.06*, University of Edinburgh, MsC
-- *2008.09 - 2012.06*, Xidian University, B.E 
+- *2008.09 - 2012.06*, University of Edinburgh, M.S
+- *2008.09 - 2012.06*, Xidian University, B.S
 
 # 💬 Invited Talks
 - *2025.04*, Momenta. 
