@@ -99,7 +99,8 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 
 **ICCV 2023** [Q-diffusion: Quantizing diffusion models](http://openaccess.thecvf.com/content/ICCV2023/html/Li_Q-Diffusion_Quantizing_Diffusion_Models_ICCV_2023_paper.html)
 
-**Yijiang Liu**, 
+Xiuyu Li, **Yijiang Liu**, Long Lian, Huanrui Yang, Zhen Dong, Daniel Kang, Shanghang Zhang, Kurt Keutzer
+
 
 - PTQ method for diffusion models.
 - Timestep-aware calibration and shortcut split methods.
