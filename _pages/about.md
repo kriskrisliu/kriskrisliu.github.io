@@ -27,6 +27,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on res
 - *2024.02*: &nbsp;🎉🎉 **CVPR 2024:** Cloud-Device Collaborative.
 - *2024.02*: &nbsp;🎉🎉 **CVPR 2024:** PromptCoT, a novel technology for enhancing T2I quality.
 - *2024.04*: &nbsp;🎉🎉 Q-Diffusion is featured in the newest [TensorRT post](https://developer.nvidia.com/blog/tensorrt-accelerates-stable-diffusion-nearly-2x-faster-with-8-bit-post-training-quantization) and [MIT opencourses](https://www.youtube.com/watch?v=nFE1euQ_Wtw).
+- *2023.08*: &nbsp;🎉🎉 **Project:** [LLaMA-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory), an Open-source Toolkit for LLM Development.
 - *2023.08*: &nbsp;🎉🎉 **ICCV 2023:** Q-Diffusion, a low-bit quantization technology for diffusion models.
 - *2023.03*: &nbsp;🎉🎉 **CVPR 2023:** NoisyQuant, a novel quantization mothod for Vision Transformers.
 
