@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-LIU Yijiang (刘一茳), a Ph.D. candidate at the School of Electronic Science and Engineering, Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
+LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
 
 🔥🔥🔥 We are recruiting Master and Ph.D students! Please visit our Lab page for more details! [南京大学智能感知与通信实验室](https://iscl.nju.edu.cn/d9/65/c58186a645477/page.htm)
 
