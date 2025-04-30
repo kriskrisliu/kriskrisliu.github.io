@@ -47,7 +47,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on res
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='paper_images/pat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AAAI 2025** [PAT: Pruning-Aware Tuning for Large Language Models](https://arxiv.org/pdf/2408.14721)
@@ -62,7 +62,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on res
 </div>
 
 <!-- begin -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='paper_images/promptcot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CVPR 2024** [PromptCoT: Align Prompt Distribution via Adapted Chain-of-Thought](https://openaccess.thecvf.com/content/CVPR2024/html/Yao_PromptCoT_Align_Prompt_Distribution_via_Adapted_Chain-of-Thought_CVPR_2024_paper.html)
@@ -78,7 +78,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on res
 <!-- end -->
 
 <!-- begin -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='paper_images/cloud-device.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CVPR 2024** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Cloud-Device_Collaborative_Learning_for_Multimodal_Large_Language_Models_CVPR_2024_paper.html)
@@ -94,7 +94,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <!-- end -->
 
 <!-- begin -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='paper_images/q-diffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ICCV 2023** [Q-diffusion: Quantizing diffusion models](http://openaccess.thecvf.com/content/ICCV2023/html/Li_Q-Diffusion_Quantizing_Diffusion_Models_ICCV_2023_paper.html)
@@ -111,7 +111,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <!-- end -->
 
 <!-- begin -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='paper_images/noisyquant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CVPR 2023** [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](http://openaccess.thecvf.com/content/CVPR2023/html/Liu_NoisyQuant_Noisy_Bias-Enhanced_Post-Training_Activation_Quantization_for_Vision_Transformers_CVPR_2023_paper.html)
