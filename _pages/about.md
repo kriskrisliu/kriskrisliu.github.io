@@ -87,7 +87,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 - Improves compressed MLLMs on devices using cloud-based models.
 - Efficient data transmission, knowledge distillation, and adaptive weight compression.
 
-[**GitHub**](https://github.com/kriskrisliu/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/KongoCat/Cloud-Device-Collaborative-Learning-for-Multimodal-Large-Language-Models) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 <!-- end -->
