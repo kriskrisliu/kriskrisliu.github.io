@@ -33,7 +33,7 @@ LIU Yijiang (刘一茳), a Ph.D. candidate at Nanjing University, focuses on res
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='paper_images/fbquant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **IJCAI 2025** [FBQuant: FeedBack Quantization for Large Language Models](https://arxiv.org/abs/2501.16385)
