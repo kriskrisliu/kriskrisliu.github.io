@@ -127,7 +127,7 @@ Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin
 <!-- end -->
 
 <!-- begin -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='paper_images/limb-pose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TIP 2022** [Limb Pose Aware Networks for Monocular 3D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/9663053/)
