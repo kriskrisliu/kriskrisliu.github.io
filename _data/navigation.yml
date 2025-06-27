@@ -18,5 +18,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "中文"
-    url: "/about_cn"
+  # - title: "中文"
+  #   url: "/about_cn"
