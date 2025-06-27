@@ -19,7 +19,7 @@ redirect_from:
 
 LIU Yijiang (刘一茳), received Ph.D. at Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
 
-刘一茳，南京大学博士，南京大学ISCL算法团队负责人，主要研究方向为端侧大模型的压缩、加速以及软硬件协同优化设计。他在CCF-A类国际顶级期刊和会议上发表多篇论文。其第一作者论文（AAAI'25 Pruning-Aware Tuning）已应用于三星手机和电视的设备端应用。此外，他与加州大学伯克利分校的合作成果（ICCV'23 Q-Diffusion）已被MIT公开课程收录，并被NVIDIA的TensorRT团队采用部署。
+刘一茳，南京大学博士，南京大学ISCL算法团队负责人，主要研究方向为端侧大模型的压缩、加速以及软硬件协同优化设计。他在CCF-A类国际顶级期刊和会议上发表多篇论文。其第一作者论文（AAAI'25 Pruning-Aware Tuning）已应用于三星手机和电视业务，与加州大学伯克利分校的合作成果（ICCV'23 Q-Diffusion）已被MIT公开课程收录，并被NVIDIA的TensorRT团队采用部署。
 
 🔥🔥🔥 We are recruiting Master and Ph.D students! Please visit our Lab page for more details! [南京大学智能感知与通信实验室](https://iscl.nju.edu.cn/d9/65/c58186a645477/page.htm)
 
