@@ -164,7 +164,7 @@ Lele Wu, Zhenbo Yu, **Yijiang Liu**, Qingshan Liu
 - Reviewer for CVPR, AAAI, ICML, ACMMM, ICCV, NeurIPS, IJCAI, ICLR.
 
 # 📖 Educations
-- *2022.09 - now*, Nanjing University, Ph.D
+- *2022.09 - 2025.09*, Nanjing University, Ph.D
 - *2008.09 - 2012.06*, University of Edinburgh, M.S
 - *2008.09 - 2012.06*, Xidian University, B.S
 
