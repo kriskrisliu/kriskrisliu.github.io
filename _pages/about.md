@@ -46,7 +46,7 @@ Liulu He, Xuan Ang Liu, Taolue Feng, Ting Lu, Chunsheng Gan, ZHIYV PENG, Yuan Du
 
 - LLM quantization. 
 
-[**GitHub**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**GitHub**: Soon
 </div>
 </div>
 
