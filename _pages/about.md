@@ -37,6 +37,19 @@ LIU Yijiang (刘一茳) is the Head of the Algorithm Team at the ISCL Lab (Nanji
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 SpotLight</div><img src='paper_images/LiftQuant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ICML 2026 SpotLight** LiftQuant: Continuous Bit-Width LLM via Dimensional Lifting and Projection
+
+Liulu He, Xuan Ang Liu, Taolue Feng, Ting Lu, Chunsheng Gan, ZHIYV PENG, Yuan Du, Huanrui Yang, **Yijiang Liu**, Li Du
+
+- LLM quantization. 
+
+[**GitHub**](https://github.com/kriskrisliu/FeedBackQuant) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='paper_images/fbquant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
