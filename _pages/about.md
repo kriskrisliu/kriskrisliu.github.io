@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-LIU Yijiang (刘一茳), received Ph.D. at Nanjing University, focuses on research areas including on-device large models, model compression and acceleration, as well as software-hardware co-optimization design. He has published multiple papers in CCF-A international top-tier journals and conferences. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
+LIU Yijiang (刘一茳) is the Head of the Algorithm Team at the ISCL Lab (Nanjing University), and an Associate Professor at Nanjing University of Information Science and Technology. He received his Ph.D. from the School of Electronic Science and Engineering, Nanjing University. His research focuses on on-device large models, model compression and acceleration, and software-hardware co-optimization. He has published multiple papers in CCF-A international top-tier journals and conferences. His corresponding-author paper, LiftQuant: Continuous Bit-Width Control for Pareto-Optimal LLM Deployment, was selected as an ICML 2026 Spotlight. His first-author paper (AAAI'25 Pruning-Aware Tuning) has been applied to Samsung's on-device applications for smartphones and TVs. Additionally, his collaborative work with UC Berkeley (ICCV'23 Q-Diffusion) has been featured in MIT OpenCourse and adopted by NVIDIA's TensorRT team for deployment.
 
-刘一茳，南京大学博士，南京大学ISCL算法团队负责人，主要研究方向为端侧大模型的压缩、加速以及软硬件协同优化设计。他在CCF-A类国际顶级期刊和会议上发表多篇论文。其第一作者论文（AAAI'25 Pruning-Aware Tuning）已应用于三星手机和电视业务，与加州大学伯克利分校的合作成果（ICCV'23 Q-Diffusion）已被MIT公开课程收录，并被NVIDIA的TensorRT团队采用部署。
+刘一茳，南京大学ISCL算法团队负责人，南京信息工程大学校聘副教授，主要研究方向为端侧大模型的压缩、加速以及软硬件协同优化设计。其博士毕业于南京大学电子科学与工程学院，在CCF-A类国际顶级期刊和会议上发表10余篇论文。
+其通讯作者论文（ICML'26 LiftQuant获得“焦点关注”荣誉）提出一种连续位宽量化技术，其第一作者论文（AAAI'25 Pruning-Aware Tuning）已应用于三星手机和电视业务，与加州大学伯克利分校的合作成果（ICCV'23 Q-Diffusion）已被MIT公开课程收录，并被NVIDIA的TensorRT团队采用部署。
 
 🔥🔥🔥 We are recruiting Master and Ph.D students! Please visit our Lab page for more details! [南京大学智能感知与通信实验室](https://iscl.nju.edu.cn/d9/65/c58186a645477/page.htm)
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 **ICML 2026 SpotLight!!:** LiftQuant, Continuous Bit-Width Control for Pareto-Optimal LLM Deployment. 
 - *2025.04*: &nbsp;🎉🎉 **IJCAI 2025:** [FBQuant](https://arxiv.org/abs/2501.16385), a novel quantization method for LLMs. 
 - *2024.12*: &nbsp;🎉🎉 **AAAI 2025:** [PAT](https://www.arxiv.org/abs/2408.14721), an efficient pruning technology for LLMs.
 - *2024.02*: &nbsp;🎉🎉 **CVPR 2024:** [Cloud-Device Collaborative](https://arxiv.org/abs/2312.16279).
